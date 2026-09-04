@@ -6,6 +6,7 @@ LeetCode DSA prepration
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0237-delete-node-in-a-linked-list) |
@@ -15,4 +16,12 @@ LeetCode DSA prepration
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0206-reverse-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
