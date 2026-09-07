@@ -6,6 +6,7 @@ LeetCode DSA prepration
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -42,4 +43,20 @@ LeetCode DSA prepration
 |  |
 | ------- |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
