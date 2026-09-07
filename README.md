@@ -20,6 +20,7 @@ LeetCode DSA prepration
 | [0237-delete-node-in-a-linked-list](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
@@ -46,6 +47,7 @@ LeetCode DSA prepration
 ## Array
 |  |
 | ------- |
+| [1472-design-browser-history](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1472-design-browser-history) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
@@ -69,4 +71,20 @@ LeetCode DSA prepration
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0148-sort-list) |
+## Stack
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1472-design-browser-history) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
