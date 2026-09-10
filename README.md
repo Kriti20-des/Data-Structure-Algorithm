@@ -52,6 +52,7 @@ LeetCode DSA prepration
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0875-koko-eating-bananas) |
 | [1472-design-browser-history](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1472-design-browser-history) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
@@ -100,4 +101,5 @@ LeetCode DSA prepration
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
