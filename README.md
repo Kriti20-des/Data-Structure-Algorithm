@@ -54,6 +54,7 @@ LeetCode DSA prepration
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -109,6 +110,7 @@ LeetCode DSA prepration
 | [0162-find-peak-element](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
