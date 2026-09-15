@@ -93,11 +93,13 @@ LeetCode DSA prepration
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [1472-design-browser-history](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1472-design-browser-history) |
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [1472-design-browser-history](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
