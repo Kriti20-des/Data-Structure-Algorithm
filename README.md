@@ -59,6 +59,7 @@ LeetCode DSA prepration
 | [0496-next-greater-element-i](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
+| [0735-asteroid-collision](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0907-sum-of-subarray-minimums) |
@@ -102,6 +103,7 @@ LeetCode DSA prepration
 | [0225-implement-stack-using-queues](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0907-sum-of-subarray-minimums) |
 | [1472-design-browser-history](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1472-design-browser-history) |
 | [2104-sum-of-subarray-ranges](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2104-sum-of-subarray-ranges) |
@@ -171,4 +173,8 @@ LeetCode DSA prepration
 | [0503-next-greater-element-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2104-sum-of-subarray-ranges) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
