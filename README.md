@@ -108,6 +108,7 @@ LeetCode DSA prepration
 | [0496-next-greater-element-i](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0907-sum-of-subarray-minimums) |
 | [1472-design-browser-history](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1472-design-browser-history) |
 | [2104-sum-of-subarray-ranges](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2104-sum-of-subarray-ranges) |
@@ -116,6 +117,7 @@ LeetCode DSA prepration
 | ------- |
 | [0155-min-stack](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0225-implement-stack-using-queues) |
+| [0901-online-stock-span](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -124,6 +126,7 @@ LeetCode DSA prepration
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1472-design-browser-history) |
 ## Binary Search
 |  |
@@ -179,6 +182,7 @@ LeetCode DSA prepration
 | [0085-maximal-rectangle](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
