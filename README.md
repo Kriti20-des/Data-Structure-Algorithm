@@ -13,6 +13,7 @@ LeetCode DSA prepration
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0203-remove-linked-list-elements) |
@@ -33,6 +34,7 @@ LeetCode DSA prepration
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0496-next-greater-element-i) |
 | [2540-minimum-common-value](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2540-minimum-common-value) |
@@ -119,6 +121,7 @@ LeetCode DSA prepration
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0901-online-stock-span) |
@@ -126,6 +129,7 @@ LeetCode DSA prepration
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0146-lru-cache) |
 | [1472-design-browser-history](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
