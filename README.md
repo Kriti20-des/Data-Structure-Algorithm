@@ -57,6 +57,7 @@ LeetCode DSA prepration
 | [0004-median-of-two-sorted-arrays](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
@@ -223,6 +224,7 @@ LeetCode DSA prepration
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
