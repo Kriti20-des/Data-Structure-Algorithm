@@ -61,6 +61,7 @@ LeetCode DSA prepration
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0085-maximal-rectangle) |
+| [0090-subsets-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0239-sliding-window-maximum) |
@@ -223,8 +224,10 @@ LeetCode DSA prepration
 | ------- |
 | [0039-combination-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
