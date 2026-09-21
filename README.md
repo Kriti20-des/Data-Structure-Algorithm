@@ -59,6 +59,7 @@ LeetCode DSA prepration
 | [0039-combination-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
@@ -109,6 +110,7 @@ LeetCode DSA prepration
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0148-sort-list) |
 ## Stack
 |  |
@@ -227,6 +229,7 @@ LeetCode DSA prepration
 | [0039-combination-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
