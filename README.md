@@ -46,6 +46,7 @@ LeetCode DSA prepration
 | ------- |
 | [0061-rotate-list](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0876-middle-of-the-linked-list) |
@@ -237,4 +238,8 @@ LeetCode DSA prepration
 | ------- |
 | [0078-subsets](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0090-subsets-ii) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
