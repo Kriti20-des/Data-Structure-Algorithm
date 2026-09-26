@@ -20,8 +20,8 @@ class Solution {
         if(root == null){
             return 0;
         }
-        int L = solve(root.left);
-        int R = solve(root.right);
+        int L = Math.max(0, solve(root.left));
+        int R = Math.max(0, solve(root.right));
 
         int down_answer = L + R + root.val;
         int only_one_good = Math.max(L,R) + root.val;
