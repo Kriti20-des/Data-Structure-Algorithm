@@ -39,6 +39,7 @@ LeetCode DSA prepration
 | [0160-intersection-of-two-linked-lists](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0460-lfu-cache](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0496-next-greater-element-i) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2540-minimum-common-value](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2540-minimum-common-value) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -273,6 +274,7 @@ LeetCode DSA prepration
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -287,6 +289,7 @@ LeetCode DSA prepration
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -303,6 +306,7 @@ LeetCode DSA prepration
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -312,6 +316,7 @@ LeetCode DSA prepration
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
