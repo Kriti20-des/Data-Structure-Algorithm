@@ -49,6 +49,7 @@ LeetCode DSA prepration
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0125-valid-palindrome) |
@@ -62,6 +63,7 @@ LeetCode DSA prepration
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0040-combination-sum-ii) |
