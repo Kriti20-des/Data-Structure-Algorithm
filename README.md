@@ -34,6 +34,7 @@ LeetCode DSA prepration
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
@@ -186,6 +187,7 @@ LeetCode DSA prepration
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0013-roman-to-integer) |
 | [0367-valid-perfect-square](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
 |  |
@@ -263,6 +265,7 @@ LeetCode DSA prepration
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0125-valid-palindrome) |
 ## Manacher
 |  |
