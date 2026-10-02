@@ -185,6 +185,7 @@ LeetCode DSA prepration
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0009-palindrome-number) |
 | [0367-valid-perfect-square](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
 |  |
