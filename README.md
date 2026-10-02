@@ -269,6 +269,7 @@ LeetCode DSA prepration
 | [0005-longest-palindromic-substring](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0125-valid-palindrome) |
 ## Manacher
 |  |
