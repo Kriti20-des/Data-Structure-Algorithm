@@ -129,6 +129,7 @@ LeetCode DSA prepration
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
@@ -195,6 +196,7 @@ LeetCode DSA prepration
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0410-split-array-largest-sum) |
@@ -269,6 +271,7 @@ LeetCode DSA prepration
 | [0005-longest-palindromic-substring](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0013-roman-to-integer) |
+| [0032-longest-valid-parentheses](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0125-valid-palindrome) |
 ## Manacher
@@ -353,4 +356,8 @@ LeetCode DSA prepration
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
