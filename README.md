@@ -84,6 +84,7 @@ LeetCode DSA prepration
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0403-frog-jump](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0410-split-array-largest-sum) |
@@ -212,6 +213,7 @@ LeetCode DSA prepration
 | [0085-maximal-rectangle](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0509-fibonacci-number) |
