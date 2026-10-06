@@ -201,6 +201,7 @@ LeetCode DSA prepration
 | [0009-palindrome-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0509-fibonacci-number) |
@@ -209,6 +210,7 @@ LeetCode DSA prepration
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -386,4 +388,8 @@ LeetCode DSA prepration
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
