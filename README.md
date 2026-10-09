@@ -95,6 +95,7 @@ LeetCode DSA prepration
 | [0540-single-element-in-a-sorted-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0739-daily-temperatures) |
+| [0741-cherry-pickup](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0741-cherry-pickup) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0907-sum-of-subarray-minimums) |
@@ -223,6 +224,7 @@ LeetCode DSA prepration
 | [0403-frog-jump](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0509-fibonacci-number) |
+| [0741-cherry-pickup](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0741-cherry-pickup) |
 | [0907-sum-of-subarray-minimums](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0907-sum-of-subarray-minimums) |
 ## Greedy
 |  |
@@ -239,6 +241,7 @@ LeetCode DSA prepration
 | [0063-unique-paths-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0085-maximal-rectangle) |
+| [0741-cherry-pickup](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0741-cherry-pickup) |
 | [1901-find-a-peak-element-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2643-row-with-maximum-ones) |
 ## Queue
