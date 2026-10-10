@@ -207,6 +207,7 @@ LeetCode DSA prepration
 | [0013-roman-to-integer](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -266,6 +267,7 @@ LeetCode DSA prepration
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0735-asteroid-collision) |
 ## Range Minimum/Maximum Query
 |  |
@@ -404,4 +406,8 @@ LeetCode DSA prepration
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0062-unique-paths) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
