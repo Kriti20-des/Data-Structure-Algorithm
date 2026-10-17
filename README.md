@@ -52,6 +52,7 @@ LeetCode DSA prepration
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2540-minimum-common-value) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -116,6 +117,7 @@ LeetCode DSA prepration
 | [1539-kth-missing-positive-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2104-sum-of-subarray-ranges) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2540-minimum-common-value) |
 | [2643-row-with-maximum-ones](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2643-row-with-maximum-ones) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -290,6 +292,7 @@ LeetCode DSA prepration
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0239-sliding-window-maximum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Monotonic Queue
 |  |
 | ------- |
