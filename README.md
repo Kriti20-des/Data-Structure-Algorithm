@@ -38,6 +38,7 @@ LeetCode DSA prepration
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -290,6 +291,7 @@ LeetCode DSA prepration
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0239-sliding-window-maximum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -315,6 +317,7 @@ LeetCode DSA prepration
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0013-roman-to-integer) |
