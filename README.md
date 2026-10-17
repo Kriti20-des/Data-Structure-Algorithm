@@ -46,6 +46,7 @@ LeetCode DSA prepration
 | [0142-linked-list-cycle-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0202-happy-number) |
 | [0460-lfu-cache](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -65,6 +66,7 @@ LeetCode DSA prepration
 | [0142-linked-list-cycle-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0202-happy-number) |
 | [0680-valid-palindrome-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -214,6 +216,7 @@ LeetCode DSA prepration
 | [0013-roman-to-integer](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0509-fibonacci-number) |
@@ -423,4 +426,5 @@ LeetCode DSA prepration
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
