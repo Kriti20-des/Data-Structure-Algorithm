@@ -173,6 +173,7 @@ LeetCode DSA prepration
 | [0739-daily-temperatures](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1472-design-browser-history](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1472-design-browser-history) |
 | [2104-sum-of-subarray-ranges](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
@@ -254,6 +255,7 @@ LeetCode DSA prepration
 | [0316-remove-duplicate-letters](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0680-valid-palindrome-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -286,6 +288,7 @@ LeetCode DSA prepration
 | [0739-daily-temperatures](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
@@ -336,6 +339,7 @@ LeetCode DSA prepration
 | [0125-valid-palindrome](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0125-valid-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0316-remove-duplicate-letters) |
 | [0680-valid-palindrome-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0680-valid-palindrome-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Manacher
 |  |
 | ------- |
