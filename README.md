@@ -50,6 +50,7 @@ LeetCode DSA prepration
 | [0202-happy-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0202-happy-number) |
 | [0460-lfu-cache](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -106,6 +107,7 @@ LeetCode DSA prepration
 | [0496-next-greater-element-i](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0739-daily-temperatures) |
 | [0741-cherry-pickup](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0741-cherry-pickup) |
@@ -261,6 +263,7 @@ LeetCode DSA prepration
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
 |  |
