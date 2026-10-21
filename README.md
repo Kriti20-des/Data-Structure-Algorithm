@@ -86,6 +86,7 @@ LeetCode DSA prepration
 | [0040-combination-sum-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0047-permutations-ii) |
+| [0057-insert-interval](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0078-subsets) |
