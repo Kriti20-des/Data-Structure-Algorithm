@@ -41,6 +41,7 @@ LeetCode DSA prepration
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0138-copy-list-with-random-pointer) |
@@ -88,6 +89,7 @@ LeetCode DSA prepration
 | [0040-combination-sum-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0064-minimum-path-sum) |
@@ -157,6 +159,7 @@ LeetCode DSA prepration
 | ------- |
 | [0016-3sum-closest](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0242-valid-anagram) |
@@ -342,6 +345,7 @@ LeetCode DSA prepration
 | [0012-integer-to-roman](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0242-valid-anagram) |
