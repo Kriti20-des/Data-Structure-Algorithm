@@ -48,6 +48,7 @@ LeetCode DSA prepration
 | [0146-lru-cache](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0202-happy-number) |
+| [0290-word-pattern](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0290-word-pattern) |
 | [0460-lfu-cache](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
@@ -341,6 +342,7 @@ LeetCode DSA prepration
 | [0032-longest-valid-parentheses](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0316-remove-duplicate-letters) |
 | [0680-valid-palindrome-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
