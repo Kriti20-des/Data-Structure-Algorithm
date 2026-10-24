@@ -107,6 +107,7 @@ LeetCode DSA prepration
 | [0209-minimum-size-subarray-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0239-sliding-window-maximum) |
+| [0300-longest-increasing-subsequence](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0496-next-greater-element-i) |
@@ -216,6 +217,7 @@ LeetCode DSA prepration
 | [0162-find-peak-element](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
@@ -253,6 +255,7 @@ LeetCode DSA prepration
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0509-fibonacci-number) |
@@ -463,4 +466,8 @@ LeetCode DSA prepration
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0202-happy-number) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
