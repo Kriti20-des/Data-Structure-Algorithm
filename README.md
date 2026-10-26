@@ -56,6 +56,7 @@ LeetCode DSA prepration
 | [0560-subarray-sum-equals-k](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1048-longest-string-chain) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2540-minimum-common-value) |
@@ -76,6 +77,7 @@ LeetCode DSA prepration
 | [0202-happy-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0202-happy-number) |
 | [0680-valid-palindrome-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0876-middle-of-the-linked-list) |
+| [1048-longest-string-chain](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1048-longest-string-chain) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2540-minimum-common-value) |
 ## Array
@@ -122,6 +124,7 @@ LeetCode DSA prepration
 | [0875-koko-eating-bananas](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0907-sum-of-subarray-minimums) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1048-longest-string-chain](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1048-longest-string-chain) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1463-cherry-pickup-ii) |
@@ -167,6 +170,7 @@ LeetCode DSA prepration
 | [0242-valid-anagram](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0242-valid-anagram) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0646-maximum-length-of-pair-chain) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1048-longest-string-chain) |
 ## Stack
 |  |
 | ------- |
@@ -264,6 +268,7 @@ LeetCode DSA prepration
 | [0646-maximum-length-of-pair-chain](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0646-maximum-length-of-pair-chain) |
 | [0741-cherry-pickup](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0741-cherry-pickup) |
 | [0907-sum-of-subarray-minimums](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0907-sum-of-subarray-minimums) |
+| [1048-longest-string-chain](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1048-longest-string-chain) |
 | [1463-cherry-pickup-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1463-cherry-pickup-ii) |
 ## Greedy
 |  |
@@ -361,6 +366,7 @@ LeetCode DSA prepration
 | [0290-word-pattern](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0316-remove-duplicate-letters) |
 | [0680-valid-palindrome-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0680-valid-palindrome-ii) |
+| [1048-longest-string-chain](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Manacher
 |  |
