@@ -94,6 +94,7 @@ LeetCode DSA prepration
 | [0040-combination-sum-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0063-unique-paths-ii) |
@@ -248,6 +249,7 @@ LeetCode DSA prepration
 | [0009-palindrome-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0202-happy-number) |
@@ -294,6 +296,7 @@ LeetCode DSA prepration
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0085-maximal-rectangle) |
