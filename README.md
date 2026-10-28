@@ -68,6 +68,7 @@ LeetCode DSA prepration
 | [0015-3sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0088-merge-sorted-array) |
@@ -92,6 +93,7 @@ LeetCode DSA prepration
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0048-rotate-image) |
@@ -181,6 +183,7 @@ LeetCode DSA prepration
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0085-maximal-rectangle) |
@@ -261,6 +264,7 @@ LeetCode DSA prepration
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0064-minimum-path-sum) |
@@ -312,6 +316,7 @@ LeetCode DSA prepration
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0316-remove-duplicate-letters) |
