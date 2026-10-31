@@ -72,6 +72,7 @@ LeetCode DSA prepration
 | [0031-next-permutation](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0125-valid-palindrome) |
@@ -103,6 +104,7 @@ LeetCode DSA prepration
 | [0057-insert-interval](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
@@ -175,6 +177,7 @@ LeetCode DSA prepration
 | [0016-3sum-closest](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0242-valid-anagram) |
@@ -505,4 +508,12 @@ LeetCode DSA prepration
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
