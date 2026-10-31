@@ -59,6 +59,7 @@ LeetCode DSA prepration
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1048-longest-string-chain) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2007-find-original-array-from-doubled-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2007-find-original-array-from-doubled-array) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2540-minimum-common-value) |
@@ -143,6 +144,7 @@ LeetCode DSA prepration
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1901-find-a-peak-element-ii) |
+| [2007-find-original-array-from-doubled-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2007-find-original-array-from-doubled-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2104-sum-of-subarray-ranges) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2540-minimum-common-value) |
@@ -184,6 +186,7 @@ LeetCode DSA prepration
 | [0646-maximum-length-of-pair-chain](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0646-maximum-length-of-pair-chain) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1048-longest-string-chain) |
+| [2007-find-original-array-from-doubled-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2007-find-original-array-from-doubled-array) |
 ## Stack
 |  |
 | ------- |
@@ -295,6 +298,7 @@ LeetCode DSA prepration
 | [0646-maximum-length-of-pair-chain](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0646-maximum-length-of-pair-chain) |
 | [0680-valid-palindrome-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2007-find-original-array-from-doubled-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2007-find-original-array-from-doubled-array) |
 ## Prefix Sum
 |  |
 | ------- |
