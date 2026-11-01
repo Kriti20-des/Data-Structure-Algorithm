@@ -135,6 +135,7 @@ LeetCode DSA prepration
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0907-sum-of-subarray-minimums) |
+| [0976-largest-perimeter-triangle](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0976-largest-perimeter-triangle) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1048-longest-string-chain](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1048-longest-string-chain) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -184,6 +185,7 @@ LeetCode DSA prepration
 | [0148-sort-list](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0242-valid-anagram) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0646-maximum-length-of-pair-chain) |
+| [0976-largest-perimeter-triangle](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0976-largest-perimeter-triangle) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1048-longest-string-chain) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2007-find-original-array-from-doubled-array) |
@@ -267,6 +269,7 @@ LeetCode DSA prepration
 | [0258-add-digits](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0509-fibonacci-number) |
+| [0976-largest-perimeter-triangle](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0976-largest-perimeter-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -297,6 +300,7 @@ LeetCode DSA prepration
 | [0410-split-array-largest-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0646-maximum-length-of-pair-chain) |
 | [0680-valid-palindrome-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0680-valid-palindrome-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0976-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2007-find-original-array-from-doubled-array) |
 ## Prefix Sum
@@ -516,8 +520,13 @@ LeetCode DSA prepration
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0075-sort-colors) |
+| [0976-largest-perimeter-triangle](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0976-largest-perimeter-triangle) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0075-sort-colors) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
