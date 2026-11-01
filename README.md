@@ -49,6 +49,7 @@ LeetCode DSA prepration
 | [0146-lru-cache](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
@@ -120,6 +121,7 @@ LeetCode DSA prepration
 | [0198-house-robber](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0213-house-robber-ii) |
+| [0219-contains-duplicate-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0403-frog-jump) |
@@ -356,6 +358,7 @@ LeetCode DSA prepration
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0239-sliding-window-maximum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
