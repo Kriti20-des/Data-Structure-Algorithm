@@ -141,6 +141,7 @@ LeetCode DSA prepration
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1048-longest-string-chain](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1048-longest-string-chain) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1329-sort-the-matrix-diagonally](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1329-sort-the-matrix-diagonally) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1463-cherry-pickup-ii) |
 | [1472-design-browser-history](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1472-design-browser-history) |
@@ -190,6 +191,7 @@ LeetCode DSA prepration
 | [0976-largest-perimeter-triangle](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0976-largest-perimeter-triangle) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1048-longest-string-chain) |
+| [1329-sort-the-matrix-diagonally](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1329-sort-the-matrix-diagonally) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2007-find-original-array-from-doubled-array) |
 ## Stack
 |  |
@@ -320,6 +322,7 @@ LeetCode DSA prepration
 | [0064-minimum-path-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0085-maximal-rectangle) |
 | [0741-cherry-pickup](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0741-cherry-pickup) |
+| [1329-sort-the-matrix-diagonally](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1329-sort-the-matrix-diagonally) |
 | [1463-cherry-pickup-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1463-cherry-pickup-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2643-row-with-maximum-ones) |
