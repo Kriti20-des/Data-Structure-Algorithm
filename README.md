@@ -56,6 +56,7 @@ LeetCode DSA prepration
 | [0460-lfu-cache](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0645-set-mismatch) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1048-longest-string-chain) |
@@ -130,6 +131,7 @@ LeetCode DSA prepration
 | [0503-next-greater-element-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0646-maximum-length-of-pair-chain) |
 | [0735-asteroid-collision](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0739-daily-temperatures) |
@@ -187,6 +189,7 @@ LeetCode DSA prepration
 | [0088-merge-sorted-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0646-maximum-length-of-pair-chain) |
 | [0976-largest-perimeter-triangle](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0976-largest-perimeter-triangle) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -384,6 +387,7 @@ LeetCode DSA prepration
 | [0078-subsets](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0222-count-complete-tree-nodes) |
+| [0645-set-mismatch](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0645-set-mismatch) |
 ## String
 |  |
 | ------- |
