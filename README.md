@@ -127,6 +127,7 @@ LeetCode DSA prepration
 | [0300-longest-increasing-subsequence](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
@@ -190,6 +191,7 @@ LeetCode DSA prepration
 | [0088-merge-sorted-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0646-maximum-length-of-pair-chain) |
 | [0976-largest-perimeter-triangle](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0976-largest-perimeter-triangle) |
