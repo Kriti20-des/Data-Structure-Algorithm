@@ -276,6 +276,7 @@ LeetCode DSA prepration
 | [0013-roman-to-integer](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0258-add-digits) |
@@ -360,6 +361,7 @@ LeetCode DSA prepration
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0735-asteroid-collision) |
 ## Range Minimum/Maximum Query
@@ -392,6 +394,7 @@ LeetCode DSA prepration
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0222-count-complete-tree-nodes) |
@@ -406,6 +409,7 @@ LeetCode DSA prepration
 | [0032-longest-valid-parentheses](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0242-valid-anagram) |
