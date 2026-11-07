@@ -61,6 +61,7 @@ LeetCode DSA prepration
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0997-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1048-longest-string-chain) |
+| [1345-jump-game-iv](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1345-jump-game-iv) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2007-find-original-array-from-doubled-array) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -148,6 +149,7 @@ LeetCode DSA prepration
 | [1048-longest-string-chain](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1048-longest-string-chain) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1329-sort-the-matrix-diagonally) |
+| [1345-jump-game-iv](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1345-jump-game-iv) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1463-cherry-pickup-ii) |
 | [1472-design-browser-history](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1472-design-browser-history) |
@@ -492,6 +494,7 @@ LeetCode DSA prepration
 | [0662-maximum-width-of-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1345-jump-game-iv](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1345-jump-game-iv) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## DP on Trees
 |  |
