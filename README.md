@@ -162,6 +162,7 @@ LeetCode DSA prepration
 | [2540-minimum-common-value](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2540-minimum-common-value) |
 | [2643-row-with-maximum-ones](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2643-row-with-maximum-ones) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3693-climbing-stairs-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/3693-climbing-stairs-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -309,6 +310,7 @@ LeetCode DSA prepration
 | [1048-longest-string-chain](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1048-longest-string-chain) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1463-cherry-pickup-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1463-cherry-pickup-ii) |
+| [3693-climbing-stairs-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/3693-climbing-stairs-ii) |
 ## Greedy
 |  |
 | ------- |
