@@ -134,6 +134,7 @@ LeetCode DSA prepration
 | [0503-next-greater-element-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0646-maximum-length-of-pair-chain) |
 | [0735-asteroid-collision](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0735-asteroid-collision) |
@@ -197,6 +198,7 @@ LeetCode DSA prepration
 | [0148-sort-list](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0646-maximum-length-of-pair-chain) |
 | [0976-largest-perimeter-triangle](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0976-largest-perimeter-triangle) |
@@ -316,6 +318,7 @@ LeetCode DSA prepration
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0410-split-array-largest-sum) |
+| [0561-array-partition](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0561-array-partition) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0646-maximum-length-of-pair-chain) |
 | [0680-valid-palindrome-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0680-valid-palindrome-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0976-largest-perimeter-triangle) |
@@ -560,4 +563,8 @@ LeetCode DSA prepration
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0997-find-the-town-judge) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
