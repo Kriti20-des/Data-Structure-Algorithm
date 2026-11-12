@@ -3,16 +3,13 @@ class Solution {
 
         List<Integer> ans = new ArrayList<>();
 
-        ans.add(1);
+        long value = 1;
 
-        for (int i = 1; i <= rowIndex; i++) {
+        for (int i = 0; i <= rowIndex; i++) {
 
-            ans.add(1);
+            ans.add((int)value);
 
-            for (int j = i - 1; j > 0; j--) {
-
-                ans.set(j, ans.get(j) + ans.get(j - 1));
-            }
+            value = value * (rowIndex - i) / (i + 1);
         }
 
         return ans;
