@@ -466,6 +466,7 @@ LeetCode DSA prepration
 | [0145-binary-tree-postorder-traversal](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -498,6 +499,7 @@ LeetCode DSA prepration
 | [0102-binary-tree-level-order-traversal](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -564,9 +566,14 @@ LeetCode DSA prepration
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0997-find-the-town-judge) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0561-array-partition) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
