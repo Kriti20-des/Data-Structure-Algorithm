@@ -124,6 +124,7 @@ LeetCode DSA prepration
 | [0162-find-peak-element](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0219-contains-duplicate-ii) |
@@ -286,6 +287,7 @@ LeetCode DSA prepration
 | [0067-add-binary](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0509-fibonacci-number) |
@@ -536,6 +538,7 @@ LeetCode DSA prepration
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0258-add-digits) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -594,4 +597,20 @@ LeetCode DSA prepration
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
