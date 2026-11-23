@@ -44,6 +44,7 @@ LeetCode DSA prepration
 | [0049-group-anagrams](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0146-lru-cache) |
@@ -123,6 +124,7 @@ LeetCode DSA prepration
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -585,6 +587,7 @@ LeetCode DSA prepration
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0547-number-of-provinces) |
 ## String Matching
 |  |
