@@ -87,6 +87,7 @@ LeetCode DSA prepration
 | [0125-valid-palindrome](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0202-happy-number) |
@@ -439,6 +440,7 @@ LeetCode DSA prepration
 | [0067-add-binary](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0316-remove-duplicate-letters) |
