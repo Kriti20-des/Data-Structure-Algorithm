@@ -303,6 +303,7 @@ LeetCode DSA prepration
 | [0367-valid-perfect-square](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0976-largest-perimeter-triangle) |
+| [1903-largest-odd-number-in-string](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
@@ -341,6 +342,7 @@ LeetCode DSA prepration
 | [0680-valid-palindrome-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0680-valid-palindrome-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0976-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1903-largest-odd-number-in-string) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2007-find-original-array-from-doubled-array) |
 ## Prefix Sum
 |  |
@@ -450,6 +452,7 @@ LeetCode DSA prepration
 | [1048-longest-string-chain](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1903-largest-odd-number-in-string](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1903-largest-odd-number-in-string) |
 ## Manacher
 |  |
 | ------- |
