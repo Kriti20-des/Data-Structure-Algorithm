@@ -34,6 +34,7 @@ LeetCode DSA prepration
 | [0025-reverse-nodes-in-k-group](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
@@ -300,6 +301,7 @@ LeetCode DSA prepration
 | [0202-happy-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0976-largest-perimeter-triangle) |
