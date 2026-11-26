@@ -1,15 +1,27 @@
 class Solution {
+
     public boolean isPalindrome(String s) {
+        return checkPalindrome(s, 0, s.length() - 1);
+    }
 
-        s = s.toLowerCase();
-        s = s.replaceAll("[^a-z0-9]" , "");
-        int n = s.length();
+    public boolean checkPalindrome(String s, int left, int right) {
 
-        for(int i =0 ; i<n/2 ; i++){
-            if(s.charAt(i) != s.charAt(n-1-i)){
-                return false;
-            }
+        if (left >= right) {
+            return true;
         }
-        return true;
+
+        if (!Character.isLetterOrDigit(s.charAt(left))) {
+            return checkPalindrome(s, left + 1, right);
+        }
+
+        if (!Character.isLetterOrDigit(s.charAt(right))) {
+            return checkPalindrome(s, left, right - 1);
+        }
+
+        if (Character.toLowerCase(s.charAt(left)) !=
+            Character.toLowerCase(s.charAt(right))) {
+            return false;
+        }
+        return checkPalindrome(s, left + 1, right - 1);
     }
 }
