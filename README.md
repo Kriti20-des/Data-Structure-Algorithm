@@ -305,6 +305,7 @@ LeetCode DSA prepration
 | [0367-valid-perfect-square](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0976-largest-perimeter-triangle) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
@@ -430,6 +431,7 @@ LeetCode DSA prepration
 | [0090-subsets-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [0645-set-mismatch](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0645-set-mismatch) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
 | ------- |
