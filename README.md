@@ -55,6 +55,7 @@ LeetCode DSA prepration
 | [0242-valid-anagram](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0560-subarray-sum-equals-k) |
@@ -191,6 +192,7 @@ LeetCode DSA prepration
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0239-sliding-window-maximum) |
+| [0451-sort-characters-by-frequency](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 ## Merge Sort
 |  |
 | ------- |
@@ -212,6 +214,7 @@ LeetCode DSA prepration
 | [0148-sort-list](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0414-third-maximum-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0646-maximum-length-of-pair-chain) |
@@ -451,6 +454,7 @@ LeetCode DSA prepration
 | [0290-word-pattern](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0680-valid-palindrome-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1048-longest-string-chain) |
@@ -583,6 +587,7 @@ LeetCode DSA prepration
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Quicksort
 |  |
@@ -643,4 +648,8 @@ LeetCode DSA prepration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0204-count-primes) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
