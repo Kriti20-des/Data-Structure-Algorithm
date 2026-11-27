@@ -456,6 +456,7 @@ LeetCode DSA prepration
 | [0387-first-unique-character-in-a-string](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -620,6 +621,7 @@ LeetCode DSA prepration
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Kriti20-des/Data-Structure-Algorithm/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
